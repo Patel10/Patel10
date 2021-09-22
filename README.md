@@ -1,6 +1,6 @@
 ### Hi there, I'm Parth 👋
 
-## I'm a Student, Developer, and your average guy!!
+## I'm a Student, Developer, and Finance techie!!
 
 - 🔭 I’m currently working on personal projects
 - 🌱 I’m currently learning cloud development/  building financal AI models
